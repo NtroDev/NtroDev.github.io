@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "Gatsby website for ntro.dev",
   "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NtroDev/ntrodev.github.io.git"
