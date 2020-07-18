@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Gatsby website for ntro.dev",
   "main": "index.js",
-  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/NtroDev/ntrodev.github.io.git"
