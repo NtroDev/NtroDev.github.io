@@ -1,0 +1,24 @@
+{
+  "name": "ntrodev.github.io",
+  "version": "1.0.0",
+  "description": "Gatsby website for ntro.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NtroDev/ntrodev.github.io.git"
+  },
+  "author": "Marcus Battle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NtroDev/ntrodev.github.io/issues"
+  },
+  "homepage": "https://github.com/NtroDev/ntrodev.github.io#readme",
+  "dependencies": {
+    "gatsby": "^2.24.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
