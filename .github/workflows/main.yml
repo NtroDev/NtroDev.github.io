@@ -43,3 +43,5 @@ jobs:
         build_dir: public
         # Write the given domain name to the CNAME file
         fqdn: ntro.dev
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
