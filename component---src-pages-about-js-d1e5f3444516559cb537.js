@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"3XHS":function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),r=n.n(a),c=(n("Wbzz"),n("tVnC")),o=n.n(c);e.default=function(){return r.a.createElement("div",null,r.a.createElement("div",{className:"p-5 sm:px-20 border-b border-gray-200 w-full"},r.a.createElement("img",{src:o.a,alt:"Ntro",width:"80"})))}},tVnC:function(t,e,n){t.exports=n.p+"static/ntro-logo-57363d014c1cb2a1c0a2f1af86849f5f.png"}}]);
+//# sourceMappingURL=component---src-pages-about-js-d1e5f3444516559cb537.js.map
