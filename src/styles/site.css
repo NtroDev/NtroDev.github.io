@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 body {
-    /* font-family: 'Noto Serif'; */
+    
 }
 
-h1 {
+h1, h2 {
     font-family: 'Cabin';
 }
