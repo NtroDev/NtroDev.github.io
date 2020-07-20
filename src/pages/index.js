@@ -1,13 +1,12 @@
 import React from "react"
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 
-import Layout from "../components/layout"
-import Image from "../components/image"
-import SEO from "../components/seo"
+// import Layout from "../components/layout"
+// import Image from "../components/image"
+// import SEO from "../components/seo"
 
 const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
+  <div>
     <p>Ntro connects new developers with real-world experience, to help them land their first job.</p>
     <p>Securing your first coding job shouldn’t be that difficult. You’ve already spent hours, possibly years, consuming every online academy and tutorial you could get your browser on. But when junior developer positions require three years of experience, new developers, such as yourself ,find the barrier to entry nearly impossible.</p>
     <h2>Programming experience for new developers</h2>
@@ -21,11 +20,7 @@ const IndexPage = () => (
     <p>Everyone wins! You get your time to focus on actually building your business, and Ntro developers build their resumes.</p>
     <p>Who knows? Maybe they’ll even be your next junior engineer?</p>
     <p>As partner of Ntro, your company will receive a digital badge of honor on our website to help promote your business as an official “Ntro Partner”.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`, display: `none` }}>
-      <Image />
-    </div>
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
-  </Layout>
+  </div>
 )
 
 export default IndexPage
