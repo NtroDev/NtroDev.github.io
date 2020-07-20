@@ -9,12 +9,12 @@ const HomePage = () => (
   <div>
     <div id="home-hero" className="bg-brand h-screen">
       <div className="p-5 sm:px-20 absolute border-b border-gray-200 w-full">
-        <img src={ntroLogo} alt="Ntro" width="100" />
+        <img src={ntroLogo} alt="Ntro" width="80" />
       </div>
       <div className="p-5 sm:px-20 flex items-center h-full">
-        <div className="pr-10 sm:w-3/4 text-gray-700">
-          <h1 className="text-5xl sm:text-6xl leading-none mb-8 sm:mb-10">We connect new developers with real-world experience</h1>
-          <p className="text-2xl font-light">To help them land their first job!</p>
+        <div className="sm:w-3/4 text-gray-700">
+          <h1 className="text-4xl sm:text-6xl leading-none mb-8 sm:mb-10">We connect new developers with real-world experience</h1>
+          <p className="text-xl mr-20 sm:mr-0 sm:text-2xl font-light">To help them land their first job!</p>
         </div>
       </div>
     </div>
