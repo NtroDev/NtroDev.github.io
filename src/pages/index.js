@@ -34,8 +34,8 @@ const HomePage = () => (
     <div id="startup" className="bg-gray-700 text-white px-5 py-20 sm:px-20 sm:py-40 leading-loose">
       <div className="sm:w-3/4">
         <h2 className="text-4xl mb-8 leading-none text-brand">How does it work?</h2>
-        <p className="mb-6">Ntro pairs qualified new developers with startups to provide updates to their publicly accessible repos. Those developers then fix (or create new) Github issues. The resulting pull requests are then code reviewed by a senior engineer at Ntro, who then provides a ready-to-merge pull request. That’s it!</p>
-        <p className="mb-6">Imagine. Startups can begin their day with notifications for ten pull requests for their latest web property!</p>
+        <p className="mb-6">Ntro pairs qualified new developers with startups to provide updates to their publicly accessible repos. Those developers then fix (or create new) Github issues. The resulting pull requests are then code reviewed by a senior engineer at Ntro, who then provides a ready-to-merge pull request back to the company.</p>
+        <p className="mb-6">Imagine. Startups can begin their day with completed programming tasks, and new developers can receive documented work experience. Everyone wins!</p>
         <p><span className="text-brand">Own a startup?</span> Email <span className="font-bold">ntro at hey dot com</span> to explore partnership.</p>
       </div>
       
