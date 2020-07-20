@@ -1,11 +1,6 @@
 import React from "react"
-// import { Link } from "gatsby"
 
-// import Layout from "../components/layout"
-// import Image from "../components/image"
-// import SEO from "../components/seo"
-
-const IndexPage = () => (
+const HomePage = () => (
   <div>
     <p>Ntro connects new developers with real-world experience, to help them land their first job.</p>
     <p>Securing your first coding job shouldn’t be that difficult. You’ve already spent hours, possibly years, consuming every online academy and tutorial you could get your browser on. But when junior developer positions require three years of experience, new developers, such as yourself ,find the barrier to entry nearly impossible.</p>
@@ -23,4 +18,4 @@ const IndexPage = () => (
   </div>
 )
 
-export default IndexPage
+export default HomePage
