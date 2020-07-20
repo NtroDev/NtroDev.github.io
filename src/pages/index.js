@@ -14,12 +14,13 @@ const HomePage = () => (
       <div className="p-5 sm:px-20 flex items-center h-full">
         <div className="sm:w-3/4 text-gray-700">
           <h1 className="text-4xl sm:text-6xl leading-none mb-8 sm:mb-10">We connect new developers with real-world experience</h1>
-          <p className="text-xl mr-20 sm:mr-0 sm:text-2xl font-light">To help them land their first job!</p>
+          <p className="text-xl mr-20 sm:mr-0 sm:text-2xl font-light mb-20">To help them land their first job!</p>
+          <a className="bg-gray-700 text-white px-5 py-3 rounded-lg cursor-pointer text-xs sm:text-lg sm:px-8 sm:py-4">Apply Now</a>
         </div>
       </div>
     </div>
 
-    <div className="px-5 py-20 sm:px-20">
+    <div className="bg-gray-200 px-5 py-20 sm:px-20">
       
       <p>Securing your first coding job shouldn’t be that difficult. You’ve already spent hours, possibly years, consuming every online academy and tutorial you could get your browser on. But when junior developer positions require three years of experience, new developers, such as yourself ,find the barrier to entry nearly impossible.</p>
       <h2>Programming experience for new developers</h2>
