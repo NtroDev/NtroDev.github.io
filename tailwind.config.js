@@ -1,10 +1,11 @@
 module.exports = {
   purge: [],
   theme: {
-    /* colors: {
-      brand: '#2ECC40'
-    }, */
-    extend: {},
+    extend: {
+      colors: {
+        'brand': '#2ECC40',
+      }
+    },
   },
   variants: {},
   plugins: [],
